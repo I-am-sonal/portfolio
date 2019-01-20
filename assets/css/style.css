@@ -1232,6 +1232,7 @@ tems Section style
 }
 .choose_item_text p{
     margin-left: 27px;
+    color: #1a1a1a;
 }
 
 
@@ -1593,6 +1594,11 @@ tems Section style
 .fa-envelope-o:before {
     content: "\f003";
     font-size: 40px;
+}
+.content_wrapper{
+    margin-top: 50px;
+    display: inline-block;
+    width: 100%;
 }
 @media (min-width: 1024px){
     .navbar-brand {
