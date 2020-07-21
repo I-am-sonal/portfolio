@@ -1610,3 +1610,8 @@ tems Section style
         padding: 25px 15px;
     }
 }
+@media (max-width: 420px){
+    .home_text h3 {
+        line-height: 40px;
+    }
+}
